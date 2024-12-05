@@ -454,6 +454,7 @@ view: headcount {
     hidden: yes
     type: number
     sql: ${TABLE}.headCount;;
+    tags: ["total sales"]
   }
 
 
