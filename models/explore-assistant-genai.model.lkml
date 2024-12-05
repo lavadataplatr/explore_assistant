@@ -1,4 +1,4 @@
-connection: "looker_gen_ai_second"
+connection: "looker_extension_assistant"
 
 # include all the views
 include: "/views/**/*.view.lkml"
