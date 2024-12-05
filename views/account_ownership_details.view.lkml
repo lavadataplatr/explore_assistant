@@ -18,7 +18,6 @@ view: account_ownership_details {
   }
 
 
-
 #******************************************** String Dimensions ****************************************************************#
 
   dimension: client_code {
